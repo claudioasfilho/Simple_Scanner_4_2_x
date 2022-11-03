@@ -1,6 +1,6 @@
 # SoC - Simple Bluetooth Scanner
 
-The Bluetooth example is a Simple Bluetooth Scanner that prints out all the advertisements it sees. 
+The Bluetooth example is a Simple Bluetooth Scanner used in conjuction with an EFR32 configured in NCP mode that prints out all the advertisements it sees. 
 
 
 **Other details:**
