@@ -2,7 +2,7 @@
 # General project settings                                                     #
 ################################################################################
 
-PROJECTNAME = simple_scanner_42x
+PROJECTNAME = scan_connect_42x
 SDK_DIR = ../../../..
 BGBUILD = $(SDK_DIR)/protocol/bluetooth/bin/gatt/bgbuild.py
 
